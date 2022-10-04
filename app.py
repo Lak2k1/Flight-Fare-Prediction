@@ -1,3 +1,4 @@
+from collections import Mapping
 from collections.abc import Mapping
 from flask import *
 import pandas as pd
