@@ -4,4 +4,8 @@ matplotlib
 seaborn
 numpy
 sklearn
-
+Jinja2
+itsdangerous
+Werkzeug
+scipy
+scikit-learn
