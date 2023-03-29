@@ -4,6 +4,8 @@
 2. [VSCodeIDE](https://code.visualstudio.com/)
 3. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
+
+# Project Description
 * This is a flight fare prediction model that uses a random forest regression algorithm to predict the price of a flight based on several factors such as the airline name, departure and destination airports, number of stops, and departure/arrival times. The model is trained on a dataset that contains historical flight information and corresponding fares.
 
 * To build the model, we used the scikit-learn library in Python to implement the random forest regression algorithm. We also preprocessed the data to handle missing values, convert categorical features into numerical values, and normalize the numerical data.
